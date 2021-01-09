@@ -11,7 +11,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as fh:
 
 setup(
     name='pps_emu',  # Required
-    version='2.26',  # Required
+    version='2.022',  # Required
     description='A software based Raspberry Pi type simulator to aid in teaching Python',  # Optional
     long_description=long_description,  # Optional
     long_description_content_type='text/markdown',   # Optional (see note above)
